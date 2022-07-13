@@ -73,7 +73,7 @@ Docker Compose: [docs.docker.com/compose/install](https://docs.docker.com/compos
 Clone the repository and copy the sample `.env` file ready for your mnemonic.
 
 ```bash
-git clone https://github.com/eco-stake/restake
+git clone https://github.com/Nodeist/restake.git
 cd restake
 cp .env.sample .env
 ```
